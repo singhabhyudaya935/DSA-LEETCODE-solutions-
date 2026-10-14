@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0027-remove-element) |
 | [0128-longest-consecutive-sequence](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0152-maximum-product-subarray) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -27,4 +28,8 @@
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
