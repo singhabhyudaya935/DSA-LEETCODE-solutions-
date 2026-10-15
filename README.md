@@ -9,6 +9,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0152-maximum-product-subarray) |
+| [0283-move-zeroes](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0283-move-zeroes) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
@@ -38,6 +39,7 @@
 | [0027-remove-element](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0202-happy-number](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
