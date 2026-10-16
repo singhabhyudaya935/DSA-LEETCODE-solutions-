@@ -49,4 +49,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0202-happy-number) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
