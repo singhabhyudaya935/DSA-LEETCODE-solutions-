@@ -23,7 +23,5 @@ public:
             temp=nextNode;
         }
 return prev;
-        
-        
     }
 };
