@@ -21,7 +21,7 @@ public:
         delete temp;
        
     } ListNode* temp=head;
-    while(temp!=nullptr && temp->next!=nullptr){
+    while( temp!=nullptr && temp->next!=nullptr){
         if(temp->next->val==val){
             ListNode* del=temp->next;
             temp->next=temp->next->next;
