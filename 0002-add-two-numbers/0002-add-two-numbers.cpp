@@ -26,8 +26,10 @@ public:
             }
             sum+=carry;
             carry=sum/10;
-            ListNode* node=new ListNode(sum%10);
-        temp->next=node;
-        temp=temp->next;}
-        return dummy->next;
-    }};
+            ListNode* node= new ListNode(sum%10);
+            temp->next=node;
+            temp=temp->next;}
+            return dummy->next;
+
+            }
+        };
