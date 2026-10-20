@@ -46,6 +46,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0202-happy-number) |
+| [2235-add-two-integers](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/2235-add-two-integers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
