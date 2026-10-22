@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -19,6 +20,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0202-happy-number) |
 ## Union-Find
