@@ -39,6 +39,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0237-delete-node-in-a-linked-list) |
