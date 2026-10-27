@@ -45,6 +45,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0202-happy-number](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0206-reverse-linked-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0328-odd-even-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
