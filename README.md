@@ -44,6 +44,7 @@
 | [0027-remove-element](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0202-happy-number](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -64,6 +65,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0876-middle-of-the-linked-list) |
@@ -74,6 +76,7 @@
 | [0002-add-two-numbers](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,4 +85,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0004-median-of-two-sorted-arrays) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
