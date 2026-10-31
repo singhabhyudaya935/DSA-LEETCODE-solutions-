@@ -23,6 +23,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0128-longest-consecutive-sequence) |
+| [0142-linked-list-cycle-ii](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0202-happy-number) |
 ## Union-Find
@@ -44,6 +45,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0142-linked-list-cycle-ii](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0234-palindrome-linked-list) |
@@ -59,12 +61,14 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0142-linked-list-cycle-ii](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0206-reverse-linked-list) |
