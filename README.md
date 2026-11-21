@@ -37,6 +37,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0148-sort-list) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
@@ -47,6 +48,7 @@
 | [0061-rotate-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0234-palindrome-linked-list) |
@@ -72,6 +74,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0206-reverse-linked-list) |
@@ -96,8 +99,13 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0148-sort-list) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0234-palindrome-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
