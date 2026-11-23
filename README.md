@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0283-move-zeroes) |
@@ -37,6 +38,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0148-sort-list) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
@@ -47,6 +49,7 @@
 | [0027-remove-element](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0160-intersection-of-two-linked-lists) |
