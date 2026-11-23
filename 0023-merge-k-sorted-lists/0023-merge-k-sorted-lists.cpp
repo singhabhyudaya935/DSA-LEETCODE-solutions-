@@ -17,8 +17,7 @@ public:
             while(temp!=NULL){
                 arr.push_back(temp->val);
                 temp=temp->next;
-            }
-        }
+            }}
         sort(arr.begin(),arr.end());
         ListNode* newHead=NULL;
         ListNode*temp=NULL;
