@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0128-longest-consecutive-sequence) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/0202-happy-number) |
 | [2235-add-two-integers](https://github.com/singhabhyudaya935/DSA-LEETCODE-solutions-/tree/master/2235-add-two-integers) |
 ## Floyd's Cycle Finding Algorithm
